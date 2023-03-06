@@ -5,7 +5,7 @@ go 1.17
 require (
 	cloud.google.com/go/bigtable v1.3.0
 	cloud.google.com/go/pubsub v1.3.1
-	cloud.google.com/go/storage v1.10.0
+	cloud.google.com/go/storage v1.14.0
 	github.com/Azure/azure-pipeline-go v0.2.3
 	github.com/Azure/azure-storage-blob-go v0.13.0
 	github.com/Azure/go-autorest/autorest/adal v0.9.18
@@ -77,7 +77,7 @@ require (
 	github.com/shurcooL/httpfs v0.0.0-20190707220628-8d4bc4ba7749
 	github.com/shurcooL/vfsgen v0.0.0-20200824052919-0d455de96546
 	github.com/sony/gobreaker v0.4.1
-	github.com/spf13/afero v1.6.0
+	github.com/spf13/afero v1.9.5
 	github.com/stretchr/testify v1.7.0
 	github.com/thanos-io/thanos v0.22.0
 	github.com/tonistiigi/fifo v0.0.0-20190226154929-a9fb20d87448
@@ -86,7 +86,7 @@ require (
 	go.etcd.io/bbolt v1.3.6
 	go.uber.org/atomic v1.9.0
 	go.uber.org/goleak v1.1.12
-	golang.org/x/crypto v0.0.0-20211202192323-5770296d904e
+	golang.org/x/crypto v0.0.0-20220722155217-630584e8d5aa
 	golang.org/x/net v0.0.0-20220105145211-5b0dc2dfae98
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	golang.org/x/sys v0.0.0-20211216021012-1d35b9e2eb4e
